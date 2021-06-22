@@ -16,9 +16,3 @@ I am currently working on creating resources to help small teams accelarate thei
 - Learning Rust
 - Infrastructure planning for on-prem servers
 - CI/CD for small teams
-
-### I like to talk about
-
-- Linux
-- Infrastructure planning
-- CI/CD & Project configuration
