@@ -1,16 +1,24 @@
-### Hi there 👋
+# Michael Zavarella
 
-<!--
-**admay/admay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer
+I focus on site reliability, CI/CD, and back-end development
 
-Here are some ideas to get you started:
+### Contacts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Home Page: < https://admay.github.io/ >
+
+### Projects
+
+- Dotfiles: < https://github.com/admay/dots >
+
+### In Progress
+
+- Learning Rust
+- Infrastructure planning for on-prem servers
+- CI/CD for small teams
+
+### I like to talk about
+
+- Linux
+- Infrastructure planning
+- CI/CD & Project configuration
