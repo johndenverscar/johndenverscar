@@ -3,13 +3,13 @@
 I am a software engineer
 I focus on site reliability, CI/CD, and back-end development
 
-### Contacts
+### Sites
 
-- Home Page: < https://admay.github.io/ >
+- Home Page: <https://admay.github.io/>
 
 ### Projects
 
-- Dotfiles: < https://github.com/admay/dots >
+- Dotfiles: <https://github.com/admay/dots>
 
 ### In Progress
 
