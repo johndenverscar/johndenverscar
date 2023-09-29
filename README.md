@@ -6,13 +6,3 @@ I am currently working on creating resources to help small teams accelarate thei
 ### Sites
 
 - Home Page: <https://admay.github.io/>
-
-### Projects
-
-- [dotfiles](https://github.com/admay/dots)
-
-### In Progress
-
-- Learning Rust
-- Infrastructure planning for on-prem servers
-- CI/CD for small teams
