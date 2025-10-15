@@ -2,5 +2,5 @@
 <p align="center">
   <a href="https://zavarella.dev">website</a> •
   <a href="https://linkedin.com/in/michaelpzavarella">linkedin</a> •
-  <a href="zavarella.dev/blog">writing</a>
+  <a href="https://zavarella.dev/blog">writing</a>
 </p>
