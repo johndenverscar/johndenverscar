@@ -1,8 +1,8 @@
-<h3 align="center">Hey, I'm Michael Zavarella</h3>
-<p align="center">
-  <a href="https://zavarella.dev">website</a> •
-  <a href="https://linkedin.com/in/michaelpzavarella">linkedin</a> •
-  <a href="https://zavarella.dev/blog">writing</a>
-</p>
+### Hey, I'm Michael Zavarella
+
+[website](https://zavarella.dev) •
+[linkedin](https://linkedin.com/in/michaelpzavarella) •
+[writing](https://zavarella.dev/blog)
+
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/johndenverscar?theme=forest&font=Fira%20Sans)
