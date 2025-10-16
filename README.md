@@ -5,4 +5,4 @@
 [writing](https://zavarella.dev/blog)
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/johndenverscar?theme=forest&font=Fira%20Sans)
+![LeetCode Stats](https://leetcard.jacoblin.cool/johndenverscar?theme=nord&font=Fira%20Sans)
