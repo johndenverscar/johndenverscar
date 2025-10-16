@@ -4,3 +4,5 @@
   <a href="https://linkedin.com/in/michaelpzavarella">linkedin</a> •
   <a href="https://zavarella.dev/blog">writing</a>
 </p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/johndenverscar?theme=forest&font=Fira%20Sans)
